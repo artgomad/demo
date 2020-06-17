@@ -20,7 +20,8 @@
       "institute": "Erasmus MC",
       "email": "b.vanloon123@gmail.com",
       "username": "Berry123",
-      "password": "1234!"
+      "password": "1234!",
+      "avatar": "beard.png"
     },
     {
       "id": "2",
@@ -33,7 +34,8 @@
       "institute": "Erasmus MC",
       "email": "b.vanloon123@gmail.com",
       "username": "Berry123",
-      "password": "1234!"
+      "password": "1234!",
+      "avatar": "elderly.png"
     },
     {
       "id": "3",
@@ -46,7 +48,8 @@
       "institute": "Erasmus MC",
       "email": "b.vanloon123@gmail.com",
       "username": "Berry123",
-      "password": "1234!"
+      "password": "1234!",
+      "avatar": "boy.png"
     }
   ]
 }
