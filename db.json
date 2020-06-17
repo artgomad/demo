@@ -8,7 +8,45 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "id": "59761c23b30d971669fb42ff",
+      "isActive": true,
+      "age": 36,
+      "name": "Berend",
+      "surname": "van Loon",
+      "gender": "male",
+      "rol": "Intensive Care",
+      "institute": "Erasmus MC",
+      "email": "b.vanloon123@gmail.com",
+      "username": "Berry123",
+      "password": "1234!"
+    },
+    {
+      "id": "59761c233d8d0f92a6b0570d",
+      "isActive": true,
+      "age": 36,
+      "name": "Pablo",
+      "surname": "van Loon",
+      "gender": "male",
+      "rol": "Intensive Care",
+      "institute": "Erasmus MC",
+      "email": "b.vanloon123@gmail.com",
+      "username": "Berry123",
+      "password": "1234!"
+    },
+    {
+      "id": "59761c23fcb6254b1a06dad5",
+       "isActive": true,
+      "age": 36,
+      "name": "Victor",
+      "surname": "van Loon",
+      "gender": "male",
+      "rol": "Intensive Care",
+      "institute": "Erasmus MC",
+      "email": "b.vanloon123@gmail.com",
+      "username": "Berry123",
+      "password": "1234!"
+    }
+  ]
 }
