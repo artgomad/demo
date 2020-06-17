@@ -10,7 +10,7 @@
   ],
   "users": [
     {
-      "id": "59761c23b30d971669fb42ff",
+      "id": "1",
       "isActive": true,
       "age": 36,
       "name": "Berend",
@@ -23,7 +23,7 @@
       "password": "1234!"
     },
     {
-      "id": "59761c233d8d0f92a6b0570d",
+      "id": "2",
       "isActive": true,
       "age": 36,
       "name": "Pablo",
@@ -36,7 +36,7 @@
       "password": "1234!"
     },
     {
-      "id": "59761c23fcb6254b1a06dad5",
+      "id": "3",
        "isActive": true,
       "age": 36,
       "name": "Victor",
